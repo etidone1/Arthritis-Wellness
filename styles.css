@@ -128,3 +128,8 @@ img:hover {
  html {
     scroll-behavior: smooth;
  }
+#msg{
+    color: blue sky;
+    margin-top: 40px;
+    display: block;
+}
