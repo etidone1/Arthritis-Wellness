@@ -126,7 +126,7 @@ img:hover {
     opacity: 1;
 }
  }
- html {
+ html{
     scroll-behavior: smooth;
  }
 #msg{
